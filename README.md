@@ -18,3 +18,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 WebSite: http://bootstrap-viewer.leftso.com
+
+usage: https://www.cnblogs.com/Harold-Hua/p/12970830.html
