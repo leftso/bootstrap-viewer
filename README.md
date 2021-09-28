@@ -19,4 +19,7 @@ limitations under the License.
 
 WebSite: http://bootstrap-viewer.leftso.com
 
-usage: https://www.cnblogs.com/Harold-Hua/p/12970830.html
+## example
+
+* example/index.html -- use src as normal image and large image as well
+* example/index.html -- use src as normal image, data-original as large image
