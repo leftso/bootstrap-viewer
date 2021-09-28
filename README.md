@@ -18,3 +18,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 WebSite: http://bootstrap-viewer.leftso.com
+
+## example
+
+* example/index.html -- use src as normal image and large image as well
+* example/index.html -- use src as normal image, data-original as large image
